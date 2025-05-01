@@ -1,0 +1,118 @@
+body{background-color: black}
+.wrapper-main {
+    width: 1080px;
+    height: 1080px;
+    margin: 0 auto;    
+    position: relative;
+}
+.imagepos{
+    position: relative;
+    z-index: -1;
+    top: 31px;
+    left: 33px;
+    opacity: .9
+}
+.img2pos{
+   position: relative;
+    top:623px;
+    left:441px;
+    z-index: -2
+}
+.linkpos{
+    position: relative;  
+    top: -3089px;
+    left: 128px;
+    z-index: 1;
+    opacity: .9;
+}
+.img3pos{
+    position: relative;
+    top: -1703px;
+    left: 33px;
+    z-index: -1
+}
+.img4pos{
+    position: relative;
+    top: -2202px;
+    left: -489px;
+    opacity: .9;
+    z-index: -2;
+}
+.street{
+    position: relative;
+    top: 396px;
+    left: 625px;
+}
+.stop{
+    position: relative;
+    top: -65px;
+    z-index: -1;
+}
+.catlink1{
+    position: relative;
+    top: -471px;
+    left: 794px;
+    opacity: .5;
+}
+.linkimg{
+    position: relative;
+    top: -319px;
+    left: 870px;
+}
+.catlink{
+    position: relative;
+    top: -501px;
+    left: 507px;
+}
+.catlink2{
+    position: relative;
+    top: -718px;
+    left: 574px;
+    opacity: .8;
+}
+.catlink3{
+    position: relative;
+    top: -478px;
+    left: 518px;
+    opacity: .1;
+}
+.headlink{
+    position: relative;
+    top: -126px;
+    left: 634px;
+    opacity: .0;
+}
+.index{
+    position: relative;
+    top: -2906px;
+    left: -490px;
+}
+a{
+    text-decoration: none;
+    color:ghostwhite;
+    font-family: cursive
+}
+.alltext{
+    position: relative;
+    top: -3754px;
+    left: 1117px;
+    opacity: .4;
+    z-index: 1;
+}
+.textp1{
+    position: relative;
+    top: -518px;
+    left: 821px;
+    opacity: .5;
+}
+.die{
+    position: relative;
+    top: -1137px;
+    left: 63px;
+    opacity: .0;
+}
+.textp2{
+    position: relative;
+    top: -643px;
+    left: 628px;
+}
